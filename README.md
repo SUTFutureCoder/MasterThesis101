@@ -1,9 +1,10 @@
 # MasterThesis101
 硕士学位论文从入门到毕业。
 
-本文已脱敏，涉密不上网、上网不涉密，并提高通用性。
-本文具有时效性，最新版本请见[GitHub](https://github.com/SUTFutureCoder/MasterThesis101)，欢迎提出[issue](https://github.com/SUTFutureCoder/MasterThesis101/issues/new)或[PR](https://github.com/SUTFutureCoder/MasterThesis101)。
-本文尽可能使用论文文体。（因为没有格式、字数限制和提交时间，尽可能放飞自我、直观简洁）
+- 本文已脱敏，涉密不上网、上网不涉密，并提高通用性。
+- 本文具有时效性，最新版本请见[GitHub](https://github.com/SUTFutureCoder/MasterThesis101)，欢迎提出[issue](https://github.com/SUTFutureCoder/MasterThesis101/issues/new)或[PR](https://github.com/SUTFutureCoder/MasterThesis101)。
+- 本文尽可能使用论文文体。
+- 本文适合初版自查或急救，不适用于具备较多论文写作经验的同学。
 
 ## 摘要
 硕士论文是硕士研究生所撰写的学术论文，具有一定的**理论深度**和**更高**的学术水平，更加强调作者思想观点的**独创性**，以及研究成果应具备更强的**实用价值**和更高的**科学价值**（<u>一句话定义研究对象</u>）。然而，大多数被挂的硕士论文问题具有创新点或字数不足、格式混乱、参考文献陈旧等问题（<u>一句话描述问题</u>）。

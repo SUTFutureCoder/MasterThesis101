@@ -3,7 +3,7 @@
 
 - 本文已脱敏，涉密不上网、上网不涉密。同时本文提高通用性，可酌情采用。
 
-- 本文具有时效性，最新版本请见[GitHub](https://github.com/SUTFutureCoder/MasterThesis101)，欢迎提出[issue](https://github.com/SUTFutureCoder/MasterThesis101/issues/new)或[PR](https://github.com/SUTFutureCoder/MasterThesis101)。
+- 本文具有时效性（我可不想再来一次硕士学位答辩 😂 ），最新版本请见[GitHub](https://github.com/SUTFutureCoder/MasterThesis101)，欢迎提出[issue](https://github.com/SUTFutureCoder/MasterThesis101/issues/new)或[PR](https://github.com/SUTFutureCoder/MasterThesis101)。
 
 - 本文尽可能使用论文文体。
 

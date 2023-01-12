@@ -70,7 +70,7 @@
 
 ### 常见论文思路
 
-找到有意义的问题 （选题背景及意义）
+找到有意义的问题。 （选题背景及意义）
 
 通过参考其他研究（文献综述），论述提出的方案是有实际意义的。
 
@@ -184,7 +184,7 @@ Linux和MacOS用户可考虑使用“XX云电脑”进行格式检查，这里�
 
 **[建议] 尽量避免包含缩写，例如AST**
 
-同中文摘要
+建议同中文摘要。
 
 
 
@@ -226,7 +226,7 @@ Linux和MacOS用户可考虑使用“XX云电脑”进行格式检查，这里�
 
 需要用多个逗号，让读者知道你认真阅读了参考文献全文，掌握参考文献核心思想，并了解参考文献的贡献和不足之处。
 
-文献之间要针对某个问题有一些**递进**或**并列**的逻辑关系
+文献之间要针对某个问题有一些**递进**或**并列**的逻辑关系。
 
 
 
@@ -270,7 +270,7 @@ Linux和MacOS用户可考虑使用“XX云电脑”进行格式检查，这里�
 
 **[强制] 英文缩写需要提供英文全称**
 
-例如：AST（英文全称：Abstract Syntax Tree），ACM-ICPC（英文全称：Association for Computing Machinery - International Collegiate Programming Contest）
+例如：AST（英文全称：Abstract Syntax Tree），ACM-ICPC（英文全称：Association for Computing Machinery - International Collegiate Programming Contest）。
 
 
 
@@ -309,8 +309,6 @@ Linux和MacOS用户可考虑使用“XX云电脑”进行格式检查，这里�
 （一）、（二）、（三）
 
 见式(2.3)
-
-
 
 
 
@@ -412,11 +410,13 @@ Lawton N., Kyle D., Mehmet E., et al. Syntax-based Improvements to Plagiarism De
 
 **[强制] 图表应符合标准UML**
 
-圆形方框、方框、菱形、箭头
+圆形方框、方框、菱形、箭头。
 
-泳道图、流程图、用例图、时序图、类图、活动图、功能结构图、总体架构图、E-R图、网络拓扑图
+泳道图、流程图、用例图、时序图、类图、活动图、功能结构图、总体架构图、E-R图、网络拓扑图。
 
-均需要符合UML规范
+均需要符合UML规范。
+
+“画得漂亮些”，画图时心头务必回响这句话。
 
 
 
